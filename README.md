@@ -7,13 +7,10 @@ A Shortcut extension that allows you to easily copy a branch name from a ticket.
 
 ## Features
 
-1. Easily copy a branch name in GitFlow naming convention (and shorten it too!)
+a) Easily copy a branch name in GitFlow naming convention (and shorten it too!)
+b) Copy the name of the branch in Conventional Commits naming convention (feat: something)
 
-![](images/demo.png)
-
-2. Copy the name of the branch in Conventional Commits naming convention (feat: something)
-
-![](images/title.png)
+![](images/shortcut-copy-branch-name.png)
 
 3. Easy to customise. It is pure, editable JavaScript
 
